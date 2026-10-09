@@ -1,0 +1,10 @@
+# Tested with Python 3.10
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn
+opencv-python
+tifffile
+shapely
+natsort

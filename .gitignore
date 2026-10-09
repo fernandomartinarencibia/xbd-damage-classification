@@ -1,0 +1,12 @@
+# Dataset and generated cache (not distributed)
+data/
+
+# Model weights and generated predictions
+*.pt
+*.pth
+output_*.csv
+codabench_submission.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
