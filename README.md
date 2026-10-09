@@ -119,6 +119,6 @@ xbd-damage-classification/
 
 Marcos Morales Tello
 
-**Fernando Martín Arencibia** · [LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia-477257368/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
+**Fernando Martín Arencibia** · [LinkedIn](https://www.linkedin.com/in/fernando-martin-arencibia/) · [GitHub](https://github.com/fernandomartinarencibia) · [Email](mailto:fernandomartinarencibia@gmail.com)
 
 **Reference:** Gupta, R. et al. (2019). *xBD: A Dataset for Assessing Building Damage from Satellite Imagery.* arXiv:1911.09296.
